@@ -34,7 +34,7 @@ dependencies {
 
 def siteUrl = 'https://github.com/DroidNinja/Android-FilePicker'      // Homepage URL of the library
 def gitUrl = 'https://github.com/DroidNinja/Android-FilePicker.git'   // Git repository URL
-group = "com.droidninja"                                          // Maven Group ID for the artifact
+group = "com.github.GAumala"                                          // Maven Group ID for the artifact
 
 install {
     repositories.mavenInstaller {
